@@ -6,7 +6,7 @@ At LoveFern, we believe that strong relationships are the foundation of a happy 
 
 ## 🔗 Links
 
-[⚡️ Website, not live yet.](https://www.youtube.com/watch?v=j5ZO4a05kJ8)
+[⚡️ Website, not live yet.](https://www.lovefern.app)
 
 [🪡 Front End Repository](https://github.com/love-fern/love_fern_fe)
 
