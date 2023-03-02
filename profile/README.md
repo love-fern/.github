@@ -15,5 +15,5 @@ We believe that strong relationships are the foundation of a happy and fulfillin
 
 ## 🎬 Demonstration
 
-![Log in, delete fern, and create fern gif](https://s9.gifyu.com/images/Recording-2023-03-02-at-10.34.25.gif, "Delete & Create")
+[![Recording-2023-03-02-at-10.34.25.gif](https://s9.gifyu.com/images/Recording-2023-03-02-at-10.34.25.gif)](https://gifyu.com/image/S7ubW)
 Logging in, deleting, and creating ferns.
