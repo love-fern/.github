@@ -6,7 +6,9 @@ We believe that strong relationships are the foundation of a happy and fulfillin
 
 ## 🔗 Links
 
-[⚡️ Website is live!](https://www.lovefern.app)
+[⚡️ Production Website](https://www.lovefern.app)
+
+[🔌 Fernando (Our Backend Service)](https://fernando.herokuapp.com)
 
 [🪡 Front End Repository](https://github.com/love-fern/love_fern_fe)
 
