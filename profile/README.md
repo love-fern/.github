@@ -11,3 +11,9 @@ We believe that strong relationships are the foundation of a happy and fulfillin
 [🪡 Front End Repository](https://github.com/love-fern/love_fern_fe)
 
 [🧵 Back End Repository](https://github.com/love-fern/love_fern_be)
+
+
+## 🎬 Demonstration
+
+![](https://s9.gifyu.com/images/Recording-2023-03-02-at-10.34.25.gif)
+Logging in, deleting, and creating ferns.
