@@ -15,5 +15,5 @@ We believe that strong relationships are the foundation of a happy and fulfillin
 
 ## 🎬 Demonstration
 
-![Log in, delete fern, and create fern gif](https://github.com/love-fern/.github/blob/main/profile/walkthrough-1.gif, "Delete & Create")
+![Log in, delete fern, and create fern gif](walkthrough-1.gif, "Delete & Create")
 Logging in, deleting, and creating ferns.
